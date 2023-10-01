@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+}
+nav div h1 {
+  margin: 0;
+}
+nav div p {
+  margin: 0;
+}
+nav button {
+  margin: auto 0;
+  height: max-content;
+}
+
+.jobBoard {
+  border: 1px solid #000;
+}
+
+.job {
+  background-color: red;
+}
